@@ -1,0 +1,49 @@
+# .NET build outputs
+bin/
+obj/
+[Bb]uild/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.db
+*.db-*
+mydatabase.db
+mydatabase.db-*
+__EFMigrationsHistory/
+
+# User secrets
+secrets.json
+
+# NuGet
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+
+# Code coverage
+.coverage
+.coveragexml
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Временные файлы
+tmp/
+temp/
